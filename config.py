@@ -24,5 +24,5 @@ temperature = 0.1
 Output_Token = 2000
 
 # Settings for the Vertex AI (Currently being used in bug_detection_device.py)
-PROJECT_ID = "even-metrics-480621-g4"
+PROJECT_ID = "vertex-api-key-here"
 LOCATION = "us-central1"
