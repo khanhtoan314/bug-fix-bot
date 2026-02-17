@@ -8,7 +8,7 @@ In essence... this is the 'setting menu' of the bug-fix bot
 """
 
 # Declaring my Google API key
-Google_API_key = "AQ.Ab8RN6IT4Alxq2dAa1WkK90p72_SmXMtza3FG9X_Enw-_1r6QQ"
+Google_API_key = "google_api_key_here"
 
 """
 This latter section is where the settings of the bot would be defined
