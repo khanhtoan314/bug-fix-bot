@@ -1,4 +1,4 @@
-# bug-fix bot
+# Bug-fix Bot
 The bug fix bot is a bot that takes in a snippet of broken codes, ranging from C/C++ to Python. After that, it would then analyzes and give out an answer on how to fix the code, and recommendations on optimizing or fixing the code.
 
 Elements and tools used for the bug-fix bot:
